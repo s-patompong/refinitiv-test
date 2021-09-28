@@ -2,7 +2,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 
 if (!process.argv[2]) {
-  console.log('Please enter the fund name');
+  console.log('Please enter the fund name.');
   return;
 }
 

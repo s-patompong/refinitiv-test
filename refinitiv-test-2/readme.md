@@ -1,5 +1,7 @@
 ## How to test
 
+First, install the packages using `npm install` command.
+
 To test this project, run this command:
 `npm run dev`
 
